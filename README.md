@@ -22,4 +22,4 @@ This project presents a Power BI dashboard analyzing student data from Dhatchan 
 - Dashboard Screenshot (dashboard.png)  
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
